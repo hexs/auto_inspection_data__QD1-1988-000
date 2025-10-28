@@ -1,6 +1,7 @@
 .venv/
 .idea/
 **/__pycache__/**
+**/Thumbs.db
 
 img_frame/
 img_result/
